@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 
 woodpeeker/embedded_tools/
+!woodpeeker/embedded_tools.zip
